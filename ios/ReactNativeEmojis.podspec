@@ -1,6 +1,6 @@
 
 Pod::Spec.new do |s|
-  s.name          = "ReactNativeEmojis"
+  s.name          = "react-native-emojis"
   s.version       = "1.0.5"
   s.summary       = "ReactNativeEmojis"
   s.description   = "Allows to check if given emoji is renderable"
