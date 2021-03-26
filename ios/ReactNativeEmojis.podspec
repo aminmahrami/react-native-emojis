@@ -3,10 +3,8 @@ Pod::Spec.new do |s|
   s.name          = "ReactNativeEmojis"
   s.version       = "1.0.5"
   s.summary       = "ReactNativeEmojis"
-  s.description   = <<-DESC
-                     ReactNativeEmojis
-                    DESC
-  s.homepage      = ""
+  s.description   = "Allows to check if given emoji is renderable"
+  s.homepage      = "https://github.com/marysieek/react-native-emojis.git"
   s.license       = "MIT"
   s.author        = { "author" => "stoklosama@gmail.com" }
   s.platform      = :ios, "7.0"
